@@ -18,7 +18,7 @@ export default function Hero() {
   };
 
   return (
-    <section className="min-h-[calc(100vh-4rem)] flex items-center">
+    <section className="min-h-[calc(100vh-4rem)] flex items-center bg-gradient-to-b from-background to-muted/30">
       <div className="container mx-auto px-4">
         <motion.div
           variants={container}
@@ -28,10 +28,18 @@ export default function Hero() {
         >
           <motion.div
             variants={item}
+            className="mb-4 text-sm font-medium text-primary"
+          >
+            Machine Learning Engineer
+          </motion.div>
+
+          <motion.div
+            variants={item}
             className="overflow-hidden"
           >
-            <h1 className="text-4xl font-bold tracking-tight sm:text-6xl bg-gradient-to-r from-primary to-blue-600 bg-clip-text text-transparent">
-              Full Stack Developer
+            <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
+              Building Intelligent Systems with 
+              <span className="bg-gradient-to-r from-primary to-blue-600 bg-clip-text text-transparent"> AI & Machine Learning</span>
             </h1>
           </motion.div>
 
@@ -39,7 +47,8 @@ export default function Hero() {
             variants={item}
             className="mt-6 text-xl text-muted-foreground"
           >
-            I build exceptional digital experiences that combine beautiful design with powerful functionality.
+            Specializing in developing scalable ML solutions, from research to production. 
+            Transforming complex data into actionable insights through advanced algorithms and deep learning.
           </motion.p>
 
           <motion.div
@@ -56,7 +65,7 @@ export default function Hero() {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                View Projects
+                View ML Projects
               </motion.a>
             </Button>
             <Button
@@ -70,7 +79,7 @@ export default function Hero() {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                Get in Touch
+                Discuss Collaboration
               </motion.a>
             </Button>
           </motion.div>
