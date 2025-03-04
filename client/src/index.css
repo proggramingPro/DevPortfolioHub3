@@ -11,3 +11,16 @@
     @apply font-sans antialiased bg-background text-foreground;
   }
 }
+
+@layer utilities {
+  .grid-pattern {
+    background-image: linear-gradient(var(--primary)/0.05 1px, transparent 1px),
+      linear-gradient(90deg, var(--primary)/0.05 1px, transparent 1px);
+    background-size: 20px 20px;
+  }
+
+  .dot-pattern {
+    background-image: radial-gradient(var(--primary)/0.1 1px, transparent 1px);
+    background-size: 20px 20px;
+  }
+}

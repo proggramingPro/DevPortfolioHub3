@@ -18,8 +18,10 @@ export default function Hero() {
   };
 
   return (
-    <section className="min-h-[calc(100vh-4rem)] flex items-center bg-gradient-to-b from-background to-muted/30">
-      <div className="container mx-auto px-4">
+    <section className="min-h-[calc(100vh-4rem)] flex items-center relative overflow-hidden">
+      <div className="absolute inset-0 bg-gradient-to-b from-background to-muted/30" />
+      <div className="absolute inset-0 dot-pattern opacity-30" />
+      <div className="container mx-auto px-4 relative">
         <motion.div
           variants={container}
           initial="hidden"
