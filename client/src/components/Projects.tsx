@@ -34,10 +34,10 @@ export default function Projects() {
   return (
     <section id="projects" className="py-24">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center mb-8">ML Projects</h2>
+        <h2 className="text-3xl font-bold text-center mb-8">MY Projects</h2>
         <p className="text-center text-muted-foreground mb-16 max-w-2xl mx-auto">
-          A selection of my machine learning projects, demonstrating expertise in 
-          computer vision, natural language processing, and predictive analytics.
+          A selection of my Web projects, demonstrating expertise in Web Developement.
+         
         </p>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project, i) => (
