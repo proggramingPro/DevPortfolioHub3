@@ -10,7 +10,7 @@ const certificatesData = [
   {
     title: "MongoDb BootCamp Certificate",
     description: "Completed MongoDb Bootcamp on Lets Upgarade.",
-    image: "https://verify.letsupgrade.in/certificate/LUEMDBSEP1241306",
+    image: "https://drive.google.com/file/d/1pcw-KDMeAzIdEYJg5M_TpGif9Kxjackj/view?usp=drive_link",
   },
   {
     title: "JioCinema React Clone",
