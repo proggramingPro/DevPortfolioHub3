@@ -10,12 +10,12 @@ const certificatesData = [
   {
     title: "MongoDb BootCamp Certificate",
     description: "Completed MongoDb Bootcamp on Lets Upgarade.",
-    image: "https://www.mediafire.com/view/4r9p5xvum95fp6b/LUEMDBSEP1241306.png/file",
+    image: "https://www.mediafire.com/view/4r9p5xvum95fp6b/LUEMDBSEP1241306.png",
   },
   {
     title: "JioCinema React Clone",
     description: "Completed JioCinema React Clone BootCamp.",
-    image: "https://www.mediafire.com/view/00uht3ylrdsdqmt/LUEDSAJAN1251920.png/file",
+    image: "https://www.mediafire.com/view/00uht3ylrdsdqmt/LUEDSAJAN1251920.png",
   }
 ];
 
