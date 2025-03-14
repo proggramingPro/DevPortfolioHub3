@@ -15,7 +15,7 @@ const certificatesData = [
   {
     title: "JioCinema React Clone",
     description: "Completed JioCinema React Clone BootCamp.",
-    image: "/DSA.png",
+    image: "/jio.png",
   }
 ];
 
