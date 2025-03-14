@@ -5,17 +5,17 @@ const certificatesData = [
   {
     title: "Python Certificate",
     description: "Certified Python skill test.",
-    image: "https://www.hackerrank.com/certificates/iframe/7b2cfe650092",
+    image: "/python-1.png",
   },
   {
     title: "MongoDb BootCamp Certificate",
     description: "Completed MongoDb Bootcamp on Lets Upgarade.",
-    image: "LUEMDBSEP1241306.png",
+    image: "/mongo.png",
   },
   {
     title: "JioCinema React Clone",
     description: "Completed JioCinema React Clone BootCamp.",
-    image: "https://www.mediafire.com/view/00uht3ylrdsdqmt/LUEDSAJAN1251920.png",
+    image: "/jio.png",
   }
 ];
 
