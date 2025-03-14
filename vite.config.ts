@@ -9,6 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 export default defineConfig({
+  publicDir: path.resolve(__dirname, "public"),
   plugins: [
     react(),
     runtimeErrorOverlay(),
