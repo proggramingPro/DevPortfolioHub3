@@ -5,17 +5,17 @@ const certificatesData = [
   {
     title: "Python Certificate",
     description: "Certified Python skill test.",
-    image: "https://www.hackerrank.com/certificates/7b2cfe650092",
+    image: "https://www.hackerrank.com/certificates/iframe/7b2cfe650092",
   },
   {
     title: "MongoDb BootCamp Certificate",
     description: "Completed MongoDb Bootcamp on Lets Upgarade.",
-    image: "https://drive.google.com/file/d/1pcw-KDMeAzIdEYJg5M_TpGif9Kxjackj/view?usp=drive_link",
+    image: "https://www.mediafire.com/view/4r9p5xvum95fp6b/LUEMDBSEP1241306.png/file",
   },
   {
     title: "JioCinema React Clone",
     description: "Completed JioCinema React Clone BootCamp.",
-    image: "https://verify.letsupgrade.in/certificate/LUEHTMLFEB1251410",
+    image: "https://www.mediafire.com/view/00uht3ylrdsdqmt/LUEDSAJAN1251920.png/file",
   }
 ];
 
