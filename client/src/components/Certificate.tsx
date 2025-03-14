@@ -3,14 +3,19 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/com
 
 const certificatesData = [
   {
-    title: "React Developer Certificate",
-    description: "Certified React Developer from XYZ Academy",
-    image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    title: "Python Certificate",
+    description: "Certified Python skill test.",
+    image: "https://www.hackerrank.com/certificates/7b2cfe650092",
   },
   {
-    title: "Full Stack Web Development",
-    description: "Completed Full Stack Development Course",
-    image: "https://www.shutterstock.com/image-vector/certificate-completion-template-modern-design-600nw-1861971841.jpg",
+    title: "MongoDb BootCamp Certificate",
+    description: "Completed MongoDb Bootcamp on Lets Upgarade.",
+    image: "https://verify.letsupgrade.in/certificate/LUEMDBSEP1241306",
+  },
+  {
+    title: "JioCinema React Clone",
+    description: "Completed JioCinema React Clone BootCamp.",
+    image: "https://verify.letsupgrade.in/certificate/LUEHTMLFEB1251410",
   }
 ];
 
