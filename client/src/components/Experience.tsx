@@ -13,6 +13,18 @@ const experiences = [
     company: "Design Thinking Project",
     period: "SY-SEM I",
     description: "Built and maintained Student Collaboration websites and Datbase"
+  },
+  {
+    title: "Music_Player Application",
+    company: "Java project",
+    period: "SY-SEM II",
+    description: "Implementing Java logic in android application using Android Studio."
+  },
+  {
+    title: "CodeNET.AI",
+    company: "Personal Project",
+    period: "SY-SEM II",
+    description: "Founder and Creater of this innovative AI Tool for beginner Developers to expand there ideas with it's help."
   }
 ];
 
