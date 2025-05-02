@@ -19,6 +19,21 @@ const projects = [
     tech: ["EJS", "MongoDb", "Node.Js"],
     github: "https://github.com/proggramingPro/my-site",
     demo: "https://workzone-05r2.onrender.com"
+  },
+   {
+    title: "Music_Player",
+    description: "Simple music player for simplify user experience for listening local music from phone.",
+    image: "https://www.google.com/imgres?q=misic%20plyar%20logo&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20221027%2Foriginal%2Fpngtree-music-player-colorful-logo-design-png-image_8734861.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fmusic-player-colorful-logo-design_8734861.html&docid=D6XRbhLGlNpZ1M&tbnid=V9ZwvrCks3cluM&vet=12ahUKEwj64O2OnISNAxU7V2wGHV1mKXoQM3oECGwQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwj64O2OnISNAxU7V2wGHV1mKXoQM3oECGwQAA",
+    tech: ["Java", "SQLite", "Android Studio"],
+    github: "https://github.com/proggramingPro/Music-Player-App-master",
+    demo: "#"
+  }, {
+    title: "CodeNET",
+    description: "CodeNET.ai leverages AI to accelerate development, turning your creative concepts into production-ready code.",
+    image: "https://www.google.com/imgres?q=cn%20logo&imgurl=https%3A%2F%2Fcdn4.vectorstock.com%2Fi%2F1000x1000%2F58%2F93%2Fcn-logo-monogram-design-template-vector-39425893.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fcn-logo-monogram-design-template-vector-39425893&docid=nXl0RSyzPEP4zM&tbnid=4kBEXDnwdwLp7M&vet=12ahUKEwjG1ozYm4SNAxVYVmwGHUByJPoQM3oECCEQAA..i&w=1000&h=1080&hcb=2&ved=2ahUKEwjG1ozYm4SNAxVYVmwGHUByJPoQM3oECCEQAA",
+    tech: ["React", "DeepSeek Model", "Node.Js"],
+    github: "https://github.com/proggramingPro/Ai_frontend",
+    demo: "https://codente.netlify.app"
   }
 ];
 
